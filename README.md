@@ -15,7 +15,7 @@
 
 ---
 ### 🌐 **Optimized Firefox**  
-Firefox is my browser of choice, optimized for a **clean design** and **easy usability**. I've customized it to create a **streamlined, intuitive browsing experience**, focusing on simplicity and efficiency. With this setup, Firefox provides a smooth, clutter-free interface while consuming between **400 MB and 700 MB** of RAM.
+Firefox is my browser of choice, optimized for a **clean design** and **easy usability**. I've customized it to create a **streamlined, intuitive browsing experience**, focusing on simplicity and efficiency. With this setup, Firefox provides a smooth, clutter-free interface.
 
 <p align="center">
   <img src="showcase/fox.png" alt="Firefox Usage" width="500">
