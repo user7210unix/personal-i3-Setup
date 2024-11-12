@@ -10,11 +10,16 @@
 
     On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. The lightweight configuration allows me to maximize system resources for essential tasks and ensures swift operation.
 
-    <img src="showcase/to/htop.png" alt="Memory Usage Graph" width="400">
+    <img src="showcase/htop.png" alt="Memory Usage Graph" width="400">
 - 🎨 **Customization** - Fully tailored environment to fit my workflow
 - 🛠️ **Hands-On Learning** - Building from source helps me understand Linux better
 
 ![Preview](showcase/rice.png)
+
+
+- 🌐 Firefox
+![Firefox](showcase/fox.png)
+
 
 ## Dependencies
 
