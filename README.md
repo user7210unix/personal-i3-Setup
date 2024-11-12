@@ -18,21 +18,60 @@
 </div>
 
 ---
-### 🌐 **Optimized Firefox**  
-Firefox is my browser of choice, optimized for a **clean design** and **easy usability**. I've customized it to create a **streamlined, intuitive browsing experience**, focusing on simplicity and efficiency. With this setup, Firefox provides a smooth, clutter-free interface.
-
-<p align="center">
-  <img src="showcase/fox.png" alt="Firefox Usage" width="700">
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>🌐 Optimized Firefox</strong></p>
+    <p>Firefox is my browser of choice, optimized for a <strong>clean design</strong> and <strong>easy usability</strong>. I've customized it to create a <strong>streamlined, intuitive browsing experience</strong>, focusing on simplicity and efficiency. With this setup, Firefox provides a smooth, clutter-free interface.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="showcase/fox.png" alt="Firefox Usage" width="700">
+  </div>
+</div>
 
 ---
 
-- 🚀 **Resource Efficiency** - Optimized for performance and minimal resource usage
-    - On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.
-  
-   <p align="center">
-  <img src="showcase/htop.png" alt="Memory Usage Graph" width="700">
-</p>
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p><strong>🚀 Resource Efficiency</strong></p>
+    <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>250 MB and 400 MB of RAM</strong>, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="showcase/htop.png" alt="Memory Usage Graph" width="700">
+  </div>
+</div>
+
+---
+### 🔑 Key Bindings
+
+#### 📱 **Applications**
+
+- **$mod+q** – Close window  
+- **$mod+Return** – Open terminal (URxvt)  
+- **$mod+f** – Launch Firefox  
+- **$mod+r** – Run dmenu  
+- **$mod+e** – Open file manager (PCManFM)  
+- **$mod+c** – Launch Visual Studio Code (Codium)  
+- **$mod+p** – Screenshot (selection to clipboard)  
+- **$mod+Shift+p** – Screenshot (save to Pictures)  
+- **$mod+Escape** – Lock screen (slock)
+
+#### 🔊 **Audio Controls**
+
+- **XF86AudioRaiseVolume** – Volume up  
+- **XF86AudioLowerVolume** – Volume down  
+- **XF86AudioMute** – Toggle mute
+
+#### 💡 **Brightness Controls**
+
+- **XF86MonBrightnessDown** – Decrease screen brightness  
+- **XF86MonBrightnessUp** – Increase screen brightness  
+- **XF86KbdBrightnessDown** – Decrease keyboard backlight  
+- **XF86KbdBrightnessUp** – Increase keyboard backlight
+
+#### ⚙️ **Miscellaneous**
+
+- **$mod+Shift+c** – Reload i3 configuration  
+- **$mod+Shift+e** – Exit i3 session
 
 ---
 
@@ -76,12 +115,13 @@ For OpenSUSE distribution, use the following command:
 ```sudo zypper install neofetch rxvt-unicode fish tint2 picom i3```
 
 
-**Instalation:**
+## 📥 Installation Guide
 
-```git clone https://github.com/user7210unix/personal-i3-Setup.git```
+To set up this i3 environment, follow the steps below. Make sure you have the necessary dependencies installed for your distribution (refer to the **Dependencies** section).
 
-```cd personal-i3-Setup```
-``cd dmenu``
-``sudo make clean install``
-``cd``
-``cd config``
+### 1. Clone the Repository
+First, clone the repository containing my personal i3 setup:
+
+```bash
+git clone https://github.com/user7210unix/personal-i3-Setup.git
+
