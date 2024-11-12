@@ -33,7 +33,7 @@ On Gentoo, you can install the required packages using:
 
 
 
-```sudo emerge app-misc/neofetch x11-terms/rxvt-unicode x11-misc/tint2 x11-wm/i3 x11-misc/picom```
+```root # emerge --ask app-misc/neofetch x11-terms/rxvt-unicode x11-misc/tint2 x11-wm/i3 x11-misc/picom```
 
 
 
