@@ -17,7 +17,7 @@ This is my Setup with i3 and fish and many other interesting things!
 
 To install the necessary dependencies on Arch Linux, run:
 
-```sudo pacman -S neofetch rxvt-unicode tint2 picom i3```
+```sudo pacman -S neofetch rxvt-unicode tint2 picom fish i3```
 
 **Debian ❣️ - (Ubuntu 🍊 - Mint 🍏)**
 
@@ -25,7 +25,7 @@ For Debian-based distributions, use the following command:
 
 
 
-```sudo apt install neofetch rxvt-unicode tint2 picom i3```
+```sudo apt install neofetch rxvt-unicode tint2 fish picom i3```
 
 **Gentoo 🧼**
 
@@ -34,7 +34,7 @@ On Gentoo, you can install the required packages using:
 
 
 ```root # emerge --ask app-misc/neofetch x11-terms/rxvt-unicode x11-misc/tint2 x11-wm/i3 x11-misc/picom```
-
+```https://wiki.gentoo.org/wiki/Fish```
 
 
 **OpenSUSE 🦎**
@@ -43,7 +43,7 @@ For OpenSUSE distribution, use the following command:
 
 
 
-```sudo zypper install neofetch rxvt-unicode tint2 picom i3```
+```sudo zypper install neofetch rxvt-unicode fish tint2 picom i3```
 
 
 **Instalation:**
