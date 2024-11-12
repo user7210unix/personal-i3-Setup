@@ -1,11 +1,11 @@
 # 🚀 𝕚𝟛-𝕊𝕖𝕥𝕦𝕡 🚀
-> **Website**: [i3 Window Manager](https://i3wm.org/)
+> **WIn**: [i3 Window Manager](https://i3wm.org/)
 
 ## ⚙️ Features
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <ul>
-      <li>🖥️ <strong>i3 Window Manager</strong> - For a lightweight and efficient, tiling window workflow</li>
+      <li>🖥️ <strong>i3 Window Manager</strong> - For a lightweight and efficient, tiling window workflow <a href="https://i3wm.org/"> </li>
       <li>🐟 <strong>Fish Shell</strong> - User-friendly and powerful shell with <a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> customization</li>
       <li>💻 <strong>URxvt Terminal</strong> - Compiled from source for a minimalist, efficient experience</li>
       <li>🎨 <strong>Customization</strong> - A fully tailored environment designed for my workflow and aesthetic preferences</li>
