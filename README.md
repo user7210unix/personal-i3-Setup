@@ -34,6 +34,7 @@ On Gentoo, you can install the required packages using:
 
 
 ```root # emerge --ask app-misc/neofetch x11-terms/rxvt-unicode x11-misc/tint2 x11-wm/i3 x11-misc/picom```
+Fish Shell Wiki
 ```https://wiki.gentoo.org/wiki/Fish```
 
 
