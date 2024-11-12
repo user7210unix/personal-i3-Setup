@@ -1,17 +1,6 @@
 # 🚀 𝕚𝟛-𝕊𝕖𝕥𝕦𝕡 🚀
 > **Website**: [i3 Window Manager](https://i3wm.org/)
 
-
-## 📑 Table of Contents
-
-- [🚀 Features](#features)
-- [📥 Installation Guide](#installation-guide)
-- [🛠️ Dependencies](#dependencies)
-- [🔑 Key Bindings](#key-bindings)
-- [🌐 Optimized Firefox](#optimized-firefox)
-- [📸 Showcase](#showcase)
-- [🖼️ Wallpapers](#wallpapers)
-
 ## ⚙️ Features
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -27,6 +16,18 @@
     <img src="showcase/rice1.png" alt="Rice Setup Preview" width="800">
   </div>
 </div>
+
+---
+
+## 📑 Table of Contents
+
+- [🚀 Features](#features)
+- [📥 Installation Guide](#installation-guide)
+- [🛠️ Dependencies](#dependencies)
+- [🔑 Key Bindings](#key-bindings)
+- [🌐 Optimized Firefox](#optimized-firefox)
+- [📸 Showcase](#showcase)
+- [🖼️ Wallpapers](#wallpapers)
 
 ---
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
