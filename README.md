@@ -51,3 +51,7 @@ For OpenSUSE distribution, use the following command:
 ```git clone https://github.com/user7210unix/personal-i3-Setup.git```
 
 ```cd personal-i3-Setup```
+``cd dmenu``
+``sudo make clean install``
+``cd``
+``cd config``
