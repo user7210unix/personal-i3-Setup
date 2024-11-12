@@ -4,7 +4,7 @@
 ## ⚙️ Features
 
 <p align="center">
-  <img src="showcase/rice.png" alt="Rice Setup Preview" width="500">
+  <img src="showcase/rice.png" alt="Rice Setup Preview" width="700">
 </p>
 
 - 🖥️ **i3 Window Manager** - For a lightweight and efficient, tiling window workflow
@@ -18,7 +18,7 @@
 Firefox is my browser of choice, optimized for a **clean design** and **easy usability**. I've customized it to create a **streamlined, intuitive browsing experience**, focusing on simplicity and efficiency. With this setup, Firefox provides a smooth, clutter-free interface.
 
 <p align="center">
-  <img src="showcase/fox.png" alt="Firefox Usage" width="500">
+  <img src="showcase/fox.png" alt="Firefox Usage" width="700">
 </p>
 
 ---
@@ -27,7 +27,7 @@ Firefox is my browser of choice, optimized for a **clean design** and **easy usa
     - On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.
   
    <p align="center">
-  <img src="showcase/htop.png" alt="Memory Usage Graph" width="500">
+  <img src="showcase/htop.png" alt="Memory Usage Graph" width="700">
 </p>
 
 ---
