@@ -1,4 +1,6 @@
-# personal-i3-Setup
+# 𝕚𝟛-𝕊𝕖𝕥𝕦𝕡
+   > Website: (https://i3wm.org/)
+
 This is my Setup with i3 and fish and many other interesting things!
 
 
