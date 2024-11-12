@@ -4,16 +4,12 @@
 ## ⚙️ Features
 
 <p align="center">
-  <img src="showcase/rice.png" alt="Rice Setup Preview" width="600">
+  <img src="showcase/rice.png" alt="Rice Setup Preview" width="500">
 </p>
 
 - 🖥️ **i3 Window Manager** - For a lightweight and efficient, tiling window workflow
 - 🐟 **Fish Shell** - User-friendly and powerful shell with [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) customization
 - 💻 **URxvt Terminal** - Compiled from source for a minimalist, efficient experience
-- 🚀 **Resource Efficiency** - Optimized for performance and minimal resource usage
-    - On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.
-  
-    ![Memory Usage Graph](showcase/htop.png)  
 - 🎨 **Customization** - A fully tailored environment designed for my workflow and aesthetic preferences
 - 🛠️ **Hands-On Learning** - Building everything from source helps me understand Linux in-depth
 
@@ -23,6 +19,15 @@ Firefox is my browser of choice, optimized for a **clean design** and **easy usa
 
 <p align="center">
   <img src="showcase/fox.png" alt="Firefox Usage" width="500">
+</p>
+
+---
+
+- 🚀 **Resource Efficiency** - Optimized for performance and minimal resource usage
+    - On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.
+  
+   <p align="center">
+  <img src="showcase/htop.png" alt="Memory Usage Graph" width="500">
 </p>
 
 ---
