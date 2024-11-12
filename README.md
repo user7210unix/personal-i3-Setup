@@ -62,23 +62,8 @@
 - **$mod+f** – Launch Firefox  
 - **$mod+r** – Run dmenu  
 - **$mod+e** – Open file manager (PCManFM)  
-- **$mod+c** – Launch Visual Studio Code (Codium)  
-- **$mod+p** – Screenshot (selection to clipboard)  
-- **$mod+Shift+p** – Screenshot (save to Pictures)  
-- **$mod+Escape** – Lock screen (slock)
-
-#### 🔊 **Audio Controls**
-
-- **XF86AudioRaiseVolume** – Volume up  
-- **XF86AudioLowerVolume** – Volume down  
-- **XF86AudioMute** – Toggle mute
-
-#### 💡 **Brightness Controls**
-
-- **XF86MonBrightnessDown** – Decrease screen brightness  
-- **XF86MonBrightnessUp** – Increase screen brightness  
-- **XF86KbdBrightnessDown** – Decrease keyboard backlight  
-- **XF86KbdBrightnessUp** – Increase keyboard backlight
+- **$mod+c** – Launch Visual Studio Code (Codium)
+- **$mod+Escape** – Lock screen (i3lock)
 
 #### ⚙️ **Miscellaneous**
 
