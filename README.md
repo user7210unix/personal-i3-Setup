@@ -1,33 +1,18 @@
 # 🚀 𝕚𝟛-𝕊𝕖𝕥𝕦𝕡 🚀
    > Website: (https://i3wm.org/)
 
-**Welcome to my custom setup!** This is my personalized Linux environment featuring:
+**Features**
 
 - 🖥️ **i3 Window Manager** - For a lightweight and efficient workflow
 - 🐟 **Fish Shell** - Friendly and powerful shell with [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) customization
 - 💻 **URXVT Terminal** - Compiled from source for a minimalist experience
-
-👉 For more details on Fish configuration, check out the [Gentoo Wiki: Fish](https://wiki.gentoo.org/wiki/Fish) page.
-
-### Why I Love This Setup
 - 🚀 **Resource Efficiency** - Optimized for performance and minimal resource usage.
 
     On average, my setup consumes between **250 MB and 400 MB of RAM**, depending on the installed packages and background services. The lightweight configuration allows me to maximize system resources for essential tasks and ensures swift operation.
 
     <img src="showcase/to/htop.png" alt="Memory Usage Graph" width="400">
-
-    The graph above illustrates typical memory usage in my setup, showcasing the benefits of minimal bloat. This setup is ideal for developers and enthusiasts who value resource efficiency without compromising on functionality.
-
 - 🎨 **Customization** - Fully tailored environment to fit my workflow
 - 🛠️ **Hands-On Learning** - Building from source helps me understand Linux better
-
-
-**Features**
-
-    Lightweight and responsive window management
-    Custom keybindings for quick navigation
-    Aesthetic design with a focus on usability
-
 
 ![Preview](showcase/rice.png)
 
