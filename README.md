@@ -3,6 +3,10 @@
 
 ## ⚙️ Features
 
+<p align="center">
+  <img src="showcase/rice.png" alt="Rice Setup Preview" width="600">
+</p>
+
 - 🖥️ **i3 Window Manager** - For a lightweight and efficient, tiling window workflow
 - 🐟 **Fish Shell** - User-friendly and powerful shell with [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) customization
 - 💻 **URxvt Terminal** - Compiled from source for a minimalist, efficient experience
