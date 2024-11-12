@@ -1,0 +1,172 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	--bg: #141929;
+	
+	--red: #e46368;
+	--green: #65d67d;
+	--yellow: #f2c075;
+	--blue: #a8b0d5;
+	--magenta: #c687ef;
+	--cyan: #72abfb;
+	--fg: #d3d6db;
+	--grey: #383f47;
+
+	--primary: #d3d6db;
+	--primary-alt: #a8b0d5;
+	--secondary: #fb7a7f;
+	--secondary-alt: #df5e63;
+
+	--prim-gradient: linear-gradient(90deg, var(--primary), var(--primary-alt));
+	--secondary-gradient: linear-gradient(90deg, var(--secondary), var(--secondary-alt));
+
+	/* --redfilter: brightness(0) saturate(100%) invert(68%) sepia(6%) saturate(3701%) hue-rotate(325deg) brightness(89%) contrast(70%);
+	--greenfilter: brightness(0) saturate(100%) invert(68%) sepia(51%) saturate(417%) hue-rotate(81deg) brightness(98%) contrast(90%);
+	--yellowfilter: brightness(0) saturate(100%) invert(93%) sepia(87%) saturate(7176%) hue-rotate(307deg) brightness(105%) contrast(90%);
+	--bluefilter: brightness(0) saturate(100%) invert(59%) sepia(76%) saturate(3840%) hue-rotate(185deg) brightness(101%) contrast(99%);
+	--magentafilter: brightness(0) saturate(100%) invert(65%) sepia(52%) saturate(3826%) hue-rotate(220deg) brightness(102%) contrast(105%);
+	--cyanfilter: brightness(0) saturate(100%) invert(82%) sepia(31%) saturate(5191%) hue-rotate(163deg) brightness(103%) contrast(98%); */
+}
+
+
+body {
+	background-color: var(--bg);
+	color: white;
+	text-align: center;
+}
+
+
+#outer {
+	display: table;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+#middle {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+#content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+}
+
+h2 {
+	font-size: 70px;
+	margin-top: -20px;
+	font-family: 'Fira Code';
+	font-weight: 400;
+}
+
+#time span {
+	cursor: pointer;
+}
+
+#hour {
+	color: var(--magenta);
+}
+
+#time #minute {
+	color: var(--red);
+}
+
+#time.hidden #minute {
+	color: var(--primary);
+}
+
+#second {
+	color: var(--primary);
+}
+
+#sites {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 40px 0px 30px 0px;
+}
+
+#time.hidden #second, #time.hidden #second-separator {
+	display: none;
+}
+
+
+#sites .site {
+	width: 100px;
+	height: 100px;
+	margin: 0px 5px 0px 5px;
+	/* display: inline-block; */
+	/* background-color: blue; */
+}
+
+.site svg, .site img {
+	cursor: pointer;
+    fill: url(#grad1);
+	width: calc(100% - 40px);
+}
+
+#sites :nth-child(4n + 1) svg {
+	fill: url(#grad1)
+}
+
+#sites :nth-child(4n + 2) svg {
+	fill: url(#grad2)
+}
+
+#sites :nth-child(4n + 3) svg {
+	fill: url(#grad3)
+}
+
+#sites :nth-child(4n + 4) svg {
+	fill: url(#grad4)
+}
+
+#searchwrapper {
+	display: inline-block;
+	text-align: center;
+	width: 470px;
+	height: 65px;
+	padding: 8px;
+	background: var(--prim-gradient);
+	margin-top: 40px;
+	border-radius: 14px;
+	position: relative;
+}
+
+#searchshadow {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: var(--secondary-gradient);
+	top: 0;
+	left: 0;
+	transform: translate(8px, 8px);
+	border-radius: 14px;
+	z-index:-2;
+	transition: .2s all;
+}
+
+input:focus + #searchshadow {
+	transform: translate(10px, 10px);
+}
+
+input {
+	all: unset;
+	font-family: 'Fira Code';
+	background-color: var(--bg);
+	padding: 15px;
+	border-radius: 10px;
+	text-align: left;
+	width: calc(100% - 30px);
+	height: calc(100% - 30px);
+	z-index:2;
+}
