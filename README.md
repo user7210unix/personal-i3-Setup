@@ -2,16 +2,20 @@
 > **Website**: [i3 Window Manager](https://i3wm.org/)
 
 ## ⚙️ Features
-
-<p align="center">
-  <img src="showcase/rice.png" alt="Rice Setup Preview" width="700">
-</p>
-
-- 🖥️ **i3 Window Manager** - For a lightweight and efficient, tiling window workflow
-- 🐟 **Fish Shell** - User-friendly and powerful shell with [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) customization
-- 💻 **URxvt Terminal** - Compiled from source for a minimalist, efficient experience
-- 🎨 **Customization** - A fully tailored environment designed for my workflow and aesthetic preferences
-- 🛠️ **Hands-On Learning** - Building everything from source helps me understand Linux in-depth
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>🖥️ <strong>i3 Window Manager</strong> - For a lightweight and efficient, tiling window workflow</li>
+      <li>🐟 <strong>Fish Shell</strong> - User-friendly and powerful shell with <a href="https://github.com/oh-my-fish/oh-my-fish">Oh My Fish</a> customization</li>
+      <li>💻 <strong>URxvt Terminal</strong> - Compiled from source for a minimalist, efficient experience</li>
+      <li>🎨 <strong>Customization</strong> - A fully tailored environment designed for my workflow and aesthetic preferences</li>
+      <li>🛠️ <strong>Hands-On Learning</strong> - Building everything from source helps me understand Linux in-depth</li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <img src="showcase/rice1.png" alt="Rice Setup Preview" width="800">
+  </div>
+</div>
 
 ---
 ### 🌐 **Optimized Firefox**  
