@@ -1,4 +1,4 @@
-# 🚀 𝕚𝟛-𝕊𝕖𝕥𝕦𝕡 🚀
+# 🚀 𝗶𝟯 𝗗𝗢𝗧𝗙𝗜𝗟𝗘𝗦 🚀
 > **Winddow Manager**: [i3 Window Manager](https://i3wm.org/)
 
 ## ⚙️ Features
